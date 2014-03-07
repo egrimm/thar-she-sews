@@ -1,6 +1,6 @@
-call-to-code
+thar-she-sews
 =================
 
-Call to Code Ireland Coding Competition
+Thar She Sews website
 
-Website collaboration for Call to Code Ireland Coding Competition.
+Sponsored by Murphy the Whale
